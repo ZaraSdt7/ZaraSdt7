@@ -22,4 +22,5 @@ Welcome to my GitHub! I'm a backend developer passionate about building **scalab
 Feel free to explore my repositories, contribute, or reach out to collaborate on **AI-powered backend solutions** and more. Let’s build the future together! 🚀
 
 ![Code](https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=790b76117ww9aioo4lvzriduh1ylfvxompsfwixad0sv738w&ep=v1_gifs_search&rid=giphy.gif&ct=g),
+![Code](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ulc90vzaibsg9ohp5udd0szku9jhxl5m9rkffrnh&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
