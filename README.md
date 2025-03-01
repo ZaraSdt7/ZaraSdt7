@@ -1,26 +1,26 @@
+# 👋 Hi, I'm Zahra – Backend Developer, AI Enthusiast, & Code Lover!
 
+Welcome to my GitHub! I'm a backend developer passionate about building **scalable**, **high-performance** systems using **NestJS**, **TypeScript**, and **Deno**. Alongside backend development, I’m diving deep into **Artificial Intelligence** to integrate smart functionalities that make systems more efficient and adaptable.
 
-# 👋 Hi, I'm Zahra – Backend Developer, AI Enthusiast & Code Lover!**
+## 🚀 What I’m Focused On:
+- **Backend Development & Microservices:** Designing **modular**, scalable backend solutions using **NestJS**.
+- **AI Integration:** Leveraging **AI** to enhance system performance and user experience by adding intelligent capabilities.
+- **Database Management:** Specializing in **Sequelize** and **MySQL**, including creating custom migration systems and ensuring efficient database operations.
 
-Welcome to my GitHub profile! I’m a backend developer passionate about building **scalable** and **high-performance** systems. With experience in **NestJS**, **TypeScript**, and **Deno**, I specialize in creating robust backend solutions. Additionally, I’m diving deep into **Artificial Intelligence** to integrate smart functionalities into my projects, making systems even more efficient and adaptable.
+## 💡 Core Principles:
+- **Scalability:** Building systems that grow with the needs of the business.
+- **Clean Code:** Writing maintainable, readable, and efficient code.
+- **Performance & AI:** Focusing on integrating **AI** where it enhances system automation and performance.
 
-### 💻 **What I’m About:**
-- **Microservices & Backend Architecture:** I design **modular**, scalable systems using **NestJS** for building backend solutions that scale with your business.
-- **AI Integration:** I’m passionate about leveraging **AI** to enhance backend functionality, building systems that not only run efficiently but also adapt intelligently to user needs.
-- **Database Management:** Expertise in **Sequelize** and **MySQL**, creating **custom migration systems** and ensuring the performance of databases.
+## 🛠️ What You’ll Find Here:
+- **Innovative Projects:** From **account management** systems to **AI-powered solutions**, my repositories reflect real-world applications.
+- **Open Source Contributions:** I'm always excited to collaborate and share knowledge with the community.
+- **Continuous Learning:** I am constantly exploring new technologies, especially in **AI**, to create smarter systems.
 
-### 🌱 **My Philosophy:**
-- **Scalability:** Crafting systems that grow with your business.
-- **Clean Code:** Prioritizing readable, maintainable, and efficient code.
-- **Performance & AI:** Integrating AI where it enhances performance, automation, and system intelligence.
+## 📸 Let’s connect!
 
-### 🛠️ **What You’ll Find Here:**
-- **Innovative Projects:** From **account management** systems to **AI-enhanced applications**, my repositories showcase a variety of real-world applications.
-- **Open Source Collaboration:** Always ready to collaborate, share knowledge, and contribute to the community.
-- **Continuous Growth:** I’m continuously exploring **AI** and other cutting-edge technologies to create smarter, more efficient systems.
+Feel free to explore my repositories, contribute, or reach out to collaborate on **AI-powered backend solutions** and more. Let’s build the future together! 🚀
 
-### 📸 **Let’s Connect and Build Together!**
-
-Explore my repositories, dive into the projects, and let's collaborate to build the future of backend systems and **AI-powered solutions**! 🚀
-
----
+![Rocket Animated](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Robot Animated](https://media.giphy.com/media/3o85xJHq1MNnY35W7K/giphy.gif)
+![AI Animated](https://media.giphy.com/media/7MxKjTptUsfFQzzZpH/giphy.gif)
