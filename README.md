@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zahra – Backend Developer, Code Lover!
+# 👋 Hi, I'm Zara – Backend Developer, Code Lover!
 
 Welcome to my GitHub! I'm a backend developer passionate about building **scalable**, **high-performance** systems using **NestJS**, **TypeScript**, and **Nodejs**. Alongside backend development, I’m diving deep into **Artificial Intelligence** to integrate smart functionalities that make systems more efficient and adaptable.
 
